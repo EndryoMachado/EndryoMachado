@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there, I'm Endryo 👋
+- Student and technology enthusiast
+- I have an interest in business, science and technology
+- I’m currently learning Web Development
+- Pronouns: he/him
+- :brazil:
 <!--
 **EndryoMachado/EndryoMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
