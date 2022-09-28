@@ -1,7 +1,7 @@
 ### Hi there, I'm Endryo 👋
 - Student and technology enthusiast
 - I have an interest in business, science and technology
-- I’m currently learning Web Development
+- I’m currently learning Web and Mobile Development
 - Pronouns: he/him
 - :brazil:
 
