@@ -5,6 +5,7 @@
 - Pronouns: he/him
 - :brazil:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndryoMachado&layout=compact)](https://github.com/EndryoMachado/github-readme-stats)
 
 ![Snake animation](https://github.com/EndryoMachado/EndryoMachado/blob/output/github-contribution-grid-snake.svg)
 <!--
