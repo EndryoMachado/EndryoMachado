@@ -19,7 +19,7 @@
 </div>
 
 ##
-<div align="center">
+<div align="center" style="background-color: blue">
   <img align="center" alt="Logo-VsCode" src="https://github.com/EndryoMachado/EndryoMachado/blob/output/github-contribution-grid-snake.svg">
 </div>
 
