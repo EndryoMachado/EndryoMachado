@@ -18,12 +18,12 @@
   <img align="center" alt="Logo-VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
+<!--
 ##
 <div align="center">
   <img align="center" alt="Logo-VsCode" src="https://github.com/EndryoMachado/EndryoMachado/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-<!--
 **EndryoMachado/EndryoMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
